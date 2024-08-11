@@ -1,10 +1,10 @@
 
 
-# Twin Techs
+# Curvetopia
 
 ## Overview
 
-**Twin Techs** is a Python project for processing and visualizing curve data. It involves reading CSV files containing curve data, performing various data processing steps (including regularization, symmetry detection, and curve completion), and finally rasterizing the results into SVG format.
+**Curvetopia** is a Python project for processing and visualizing curve data. It involves reading CSV files containing curve data, performing various data processing steps (including regularization, symmetry detection, and curve completion), and finally rasterizing the results into SVG format.
 
 ## Project Structure
 
